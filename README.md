@@ -102,7 +102,7 @@ curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scrip
 ```
 
 ### **Windows**
-
+打开 PowerShell，输入以下命令并执行：
 ```powershell
 irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/reset.ps1 | iex
 ```
